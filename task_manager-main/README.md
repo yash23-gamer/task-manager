@@ -168,7 +168,7 @@ task-manager-api/
 ---
 
 **License**: MIT  
-**Contributors**: rajbhoyar729
+**Contributors**: yash23-gamer
 ``` 
 
 ---
